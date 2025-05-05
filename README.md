@@ -1,2 +1,2 @@
 # ChpEditProject
-Originalhttps://www.curseforge.com/minecraft/modpacks/cave-horror-project
+inspiration https://www.curseforge.com/minecraft/modpacks/cave-horror-project
